@@ -17,3 +17,8 @@ For Linux Ubuntu:
     ```
 * Now from glad/src copy glad.c file and paste it to src folder of your project.
 * Now you can compile your main.cpp with `g++ -o test main.cpp glad.c -ldl -lglfw`
+
+# References
+
+* For OpenGL: https://learnopengl.com/
+* For Graphics Theory: http://15462.courses.cs.cmu.edu/fall2020/
